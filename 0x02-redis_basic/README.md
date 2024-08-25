@@ -1,2 +1,2 @@
-##The project of 0x02-redis_basic
-my project of 0x02-redis_basic in alx programe
+##The project of 0x02.Redis basic
+My project of 0x02.Redis basic in alx programme
